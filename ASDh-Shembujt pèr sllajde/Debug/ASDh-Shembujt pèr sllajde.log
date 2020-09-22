@@ -1,0 +1,7 @@
+﻿  grafi.cpp
+D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\ASDh-Shembujt pèr sllajde\ASDh-Shembujt pèr sllajde\grafi.cpp(88,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\ASDh-Shembujt pèr sllajde\ASDh-Shembujt pèr sllajde\grafi.cpp(333,29): warning C4018: '<': signed/unsigned mismatch
+D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\ASDh-Shembujt pèr sllajde\ASDh-Shembujt pèr sllajde\grafi.cpp(405,30): warning C4018: '<': signed/unsigned mismatch
+D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\ASDh-Shembujt pèr sllajde\ASDh-Shembujt pèr sllajde\grafi.cpp(445,20): warning C4018: '<': signed/unsigned mismatch
+D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\ASDh-Shembujt pèr sllajde\ASDh-Shembujt pèr sllajde\grafi.cpp(477): warning C4715: 'grafi::gjeje_nese_formohet_cikel': not all control paths return a value
+  ASDh-Shembujt pèr sllajde.vcxproj -> D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\ASDh-Shembujt pèr sllajde\Debug\ASDh-Shembujt pèr sllajde.exe
